@@ -6,9 +6,8 @@
 // @include     http://*
 // @include     https://*
 // @version     1.13
-// @require     https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // @require     https://raw.github.com/sizzlemctwizzle/GM_config/master/gm_config.js
-// @icon        http://s3.amazonaws.com/uso_ss/icon/138227/large.png
 // ==/UserScript==
 
 
